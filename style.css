@@ -1,0 +1,25 @@
+body{
+    background: #efefef;
+}
+section{
+    padding: 5%;
+    
+
+}
+.todo{
+    text-align: center;
+    font-size: 60px;
+    color: rgb(79, 4, 154);
+}
+.btn{
+    margin-top:2% ;
+    color: white;
+    background:  rgb(79, 4, 154);
+}
+li{
+    margin-top:5% ;
+    padding: 5%;
+    width: 300px;
+    background: #8540f6b1;
+    word-wrap: break-word;
+}
